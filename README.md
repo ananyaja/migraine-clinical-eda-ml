@@ -44,12 +44,12 @@ This repository contains an end-to-end data science and machine learning project
 
 ---
 
-## 📈 Model Performance
+### 📈 Model Performance
 * Achieved an overall **92.5% test accuracy** using gradient boosting classifiers.
 * Mapped out the predictive capabilities and limitations of imbalanced medical datasets across rare migraine sub-types (e.g., Hemiplegic Migraines).
 
 ---
-📬 **Authors & Collaboration:** 
+###📬 **Authors & Collaboration:** 
 - **Lead Researcher & Domain Expert:** Ananyaja Debadipta
 - **AI Collaborator & Technical Co-Pilot:** Gemini (Google AI)
 
