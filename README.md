@@ -49,5 +49,8 @@ This repository contains an end-to-end data science and machine learning project
 * Mapped out the predictive capabilities and limitations of imbalanced medical datasets across rare migraine sub-types (e.g., Hemiplegic Migraines).
 
 ---
-📬 **Author:** Ananyaja Debadipta  
-*Independent Data Analysis Researcher & Technical Writer*
+📬 **Authors & Collaboration:** 
+- **Lead Researcher & Domain Expert:** Ananyaja Debadipta
+- **AI Collaborator & Technical Co-Pilot:** Gemini (Google AI)
+
+*Developed collaboratively as an open-source technical partnership bridging independent data research and structured software design.*
